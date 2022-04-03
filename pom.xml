@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.233.101.21:8081/repository/seri-release/ebay-bts-releases/</url>
+	      <url>http://54.147.6.56:8081/repository/sheryrelease/ebay-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.233.101.21:8081/repository/seri-snapsot/ebay-bts-snapshot/</url>
+	      <url>http://54.147.6.56:8081/repository/sherysnapshot/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
