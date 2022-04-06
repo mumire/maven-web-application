@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.83.33.68:8081/repository/todayrelease/</url>
+	      <url>http://18.207.222.143:8081/repository/classrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.83.33.68:8081/repository/todaysnapshot/</url>
+	      <url>http://18.207.222.143:8081/repository/classsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
